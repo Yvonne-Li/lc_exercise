@@ -1,0 +1,1 @@
+Explain the sliding window coding pattern in simple words for beginners. Tell me where is this coding pattern used and what type of problems does it solve? Also, discuss its characteristics and how can we identify this pattern.
